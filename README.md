@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Moisés Tejada
+- 👀 I’m interested in Programming and Tecnology
+- 🌱 I’m currently learning HTML, CSS, JS and others
+- 💞️ I’m looking to collaborate on various projects
+- 📫 How to reach me IG/Twitter @moitejada
